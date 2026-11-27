@@ -265,7 +265,6 @@ if let score = scoreOf[guest] {
     print("\(guest)は名簿にありません")
 }
 // 高橋は名簿にありません
-
 //練習３：
 let member = "グエン・アン"
 if let score = scoreOf[member] {
